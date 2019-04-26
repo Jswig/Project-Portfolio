@@ -10,5 +10,6 @@ Description of my projects and links to the relevant repositories.
 | [LANL Earthquake Prediction](https://github.com/datascienceslugs/dss-earthquakes) | WIP Kaggle competition in which I am participating as an officer of the [Data Science Slugs](http://datascienceslug.org/Package-HTML/HTML/one-page/op-outdoors.html) student organization at UC Santa Cruz. |
 | [Predicting Salaries By Level of Experience](https://github.com/Jswig/DataScienceAZ/blob/master/SimpleLinearRegression/salary_slr.md) | Simple linear regression and graphing practice in R using a dataset from the Data Science A-Z course |
 | [Numerical Analysis](https://github.com/Jswig/numerical-diffeqs/blob/master/Solutions.ipynb)| Implementation in Python of numerical methods for solving first-order differential equations and some optimization problems |
+|[Red Hawks in California]() | |
 
 
