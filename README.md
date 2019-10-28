@@ -5,7 +5,8 @@ Description of my projects and links to the relevant repositories.
 
 | Project | Description |
 | --- | --- |
-| [LANL Earthquake Prediction](https://github.com/datascienceslugs/dss-earthquakes) | My first Kaggle competition, in which I use stacked models (random forests, support vector regression and k-nearest neighbors) to predict earthquakes, finishing in the top ~5% |
+| [Understanding Clouds from Satellite Images](https://github.com/datascienceslugs/dss-cloudclassification) | (WIP) A Kaggle competition we used a U-net architecture to perform image segmaentation, using tensorflow and pandas.|
+| [LANL Earthquake Prediction](https://github.com/datascienceslugs/dss-earthquakes) | My first Kaggle competition, in which I use stacked models (random forests, support vector regression and k-nearest neighbors) to predict earthquakes, finishing in the top ~5%. Implemented mostly in scikit-learn |
 | [Who is Satoshi?](https://github.com/Jswig/Computational-Futurology/blob/master/Who_Is_Satoshi/CRWN88_HW3.pdf) | Open-ended class project where I use text mining in R to determine whether cryptographer Nick Szabo might have written under the name of Satoshi Nakamoto |
 | [Access to Birth Control in the U.S.](https://drive.google.com/open?id=1DtbDNyi160zuXgVyBocp7d1TX9Zl3crS) | Open-ended final group project in which we use regression to predict access to birth control on a state basis. 
 | [Kanada MNIST](https://github.com/datascienceslugs/dss-kannada/blob/master/notebooks/0.1-apoirel-nntest.ipynb) | Variant of the MNIST Competition on Kaggle I used to practice neural networks.
