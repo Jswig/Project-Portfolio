@@ -15,6 +15,7 @@ Description of my projects and links to the relevant repositories.
 | [Data Science Workshops](https://github.com/datascienceslugs/workshops) | Deliverables for data science worshops I led in club meetings | 
 | [Data Science AZ](https://github.com/Jswig/DataScienceAZ) | Material from the Data  science AZ course re-implemented in R, for teaching use in club meetings|
 | [Numerical Analysis](https://github.com/Jswig/numerical-diffeqs/blob/master/Solutions.ipynb)| Implementation in Python of numerical methods for solving first-order differential equations and some optimization problems|
+| [Numerical Optimization](https://github.com/Jswig/DRP/blob/master/presentation/spring_2019_optimization.pdf) | Files for the talk I delivered on numerical optimization in Spring 2018 for the undergraduate Directed Reading Program
 
 
 
