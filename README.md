@@ -5,7 +5,7 @@ Description of my projects and links to the relevant repositories.
 
 | Project | Description | Technologies
 | --- | --- | ---|
-| [Intersection Congestion Prediction](https://github.com/Jswig/bq-geotab)| Kaggle competition where I used bayesian hyperparameter optimization to tune a boosted trees model| Python (TensorFlow, hyperopt, pandas) |
+| [Intersection Congestion Prediction](https://github.com/Jswig/bq-geotab)| (WIP) Kaggle competition where I used bayesian hyperparameter optimization to tune a boosted trees model| Python (TensorFlow, hyperopt, pandas) |
 | [Understanding Clouds from Satellite Images](https://github.com/datascienceslugs/dss-cloudclassification/tree/anders-testing) | (On Hold until I get access to a better GPU setup) A Kaggle competition we used a U-net architecture to perform image segmentation, using TensorFlow and pandas. Training was performed on a combination of HPC clusters and Google Cloud Compute instances| Python (TensorFlow, pandas), Google Cloud
 | [LANL Earthquake Prediction](https://github.com/datascienceslugs/dss-earthquakes) | My first Kaggle competition, in which I use stacked models (random forests, support vector regression and k-nearest neighbors) to predict earthquakes, finishing in the top ~5%. Implemented mostly in scikit-learn |  Python (scikit-learn, pandas, numpy) |
 | [Who is Satoshi?](https://github.com/Jswig/Computational-Futurology/blob/master/Who_Is_Satoshi/CRWN88_HW3.pdf) | Open-ended class project where I use text mining in R to determine whether cryptographer Nick Szabo might have written under the name of Satoshi Nakamoto | R (tm), LaTeX 
@@ -16,6 +16,4 @@ Description of my projects and links to the relevant repositories.
 | [Data Science AZ](https://github.com/Jswig/DataScienceAZ) | Material from the Data  science AZ course re-implemented in R, for teaching use in club meetings| R (rmarkdown, tidyverse, ggplot2) |
 | [Numerical Analysis](https://github.com/Jswig/numerical-diffeqs/blob/master/Solutions.ipynb)| Implementation in Python of numerical methods for solving first-order differential equations and some optimization problems| Python |
 | [Numerical Optimization](https://github.com/Jswig/DRP/blob/master/presentation/spring_2019_optimization.pdf) | Files for the talk I delivered on numerical optimization in Spring 2018 for the undergraduate Directed Reading Program | Python (numpy), LaTex |
-
-
 
