@@ -1,7 +1,7 @@
 # Project Portfolio
 *Anders Poirel*
 
-Description of my projects and links to the relevant repositories.
+Description of some of my projects and links to the relevant repositories.
 
 | Project | Description | Technologies
 | --- | --- | ---|
