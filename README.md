@@ -17,6 +17,6 @@ Description of some of my projects and links to the relevant repositories.
 | [Data Science Workshops](https://github.com/datascienceslugs/workshops) | Deliverables for data science worshops I led in club meetings |   pandas, numpy, matplotlib, plotly, scikit-learn|
 | [Data Science AZ](https://github.com/Jswig/DataScienceAZ) | Material from the Data  science AZ course re-implemented in R, for teaching use in club meetings| R (rmarkdown, tidyverse, ggplot2) |
 | [Numerical Analysis](https://github.com/Jswig/numerical-diffeqs/blob/master/Solutions.ipynb)| Implementation in Python of numerical methods for solving first-order differential equations and some optimization problems| Python |
-| [Gradient Boosting](https://github.com/datascienceslugs/workshops/blob/master/workshops-w2020/boosting.pdf) | Files for the talk I delivered on Gradient Boosted Trees and XGBoost in Winter 2020 at Data Science @ SC | Python (xgboost, sklearn), LaTex |
+| [Gradient Boosting](https://github.com/datascienceslugs/workshops/blob/master/w2020/boostedtrees/boosting.pdf) | Files for the talk I delivered on Gradient Boosted Trees and XGBoost in Winter 2020 at Data Science @ SC | Python (xgboost, sklearn), LaTex |
 | [Numerical Optimization](https://github.com/Jswig/DRP/blob/master/presentation/spring_2019_optimization.pdf) | Files for the talk I delivered on numerical optimization in Spring 2018 for the undergraduate Directed Reading Program | Python (numpy), LaTex |
 
