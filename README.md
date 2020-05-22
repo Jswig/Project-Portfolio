@@ -22,6 +22,7 @@ Some of my projects and links to the relevant repositories.
 | [Who is Satoshi?](https://github.com/Jswig/Computational-Futurology/blob/master/Who_Is_Satoshi) | Open-ended class project using text mining in R to examine evidence that cryptographer Nick Szabo is Satoshi Nakamoto | R (tm) 
 
 |talks and tutorials| | |
+| --- | --- | --- |
 | [Gradient Boosting](https://github.com/datascienceslugs/workshops/blob/master/w2020/boostedtrees/boosting.pdf) | Files for the talk I delivered on gradient boosting in Winter 2020 at Data Science @ SC | Python (xgboost, sklearn), LaTex |
 | [Unconstrained Optimization]()| Files for the talk I delivered at the Mathematics DRP at UCSC on the theoretical fundamentals of line search techniques | LaTeX |
 | [Data Science Workshops](https://github.com/datascienceslugs/workshops) | Deliverables for data science worshops I led in club meetings |   pandas, numpy, matplotlib, plotly, scikit-learn|
